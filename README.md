@@ -1,1 +1,1 @@
-#assignments of 1st semester
+# assignments of 1st semester
